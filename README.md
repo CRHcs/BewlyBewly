@@ -1,9 +1,9 @@
-# BewlyBewly
+# BewlyBewly（修复n卡超分无法使用）
 
 English | [官话 - 简体中文](README-cmn_CN.md) | [官話 - 繁体中文](README-cmn_TW.md) | [廣東話](README-jyut.md)
 
 <p align="center" style="margin-bottom: 0px !important;">
-<img width="300" alt="BewlyBewly icon" src="https://cdn.jsdelivr.net/gh/BewlyBewly/Imgs/logos/bewlybewly-vtuber-logo.png"><br/>
+<img width="300" alt="BewlyBewly icon" src=""><br/>
 </p>
 
 <p align="center">Just make a few small changes to your Bilibili homepage.</p>
@@ -14,9 +14,9 @@ English | [官话 - 简体中文](README-cmn_CN.md) | [官話 - 繁体中文](RE
 ## 👋 Introduction
 
 > [!IMPORTANT]
-> BewlyBewly mainly focuses on page adjustments and optimization rather than improving functionally and efficiency.
+> BewlyBewly mainly focuses on page adjustments 和 optimization rather than improving functionally 和 efficiency.
 >
-> The dark mode will only be adapted to commonly used pages due to its efficiency and maintenance difficulty, while less
+> The dark mode will only be adapted to commonly used pages due to its efficiency 和 maintenance difficulty, while less
 > frequently used pages will not to be adapted.
 
 > [!CAUTION]
